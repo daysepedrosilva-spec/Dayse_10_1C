@@ -1,5 +1,8 @@
 body{
 color:bisque;
-
 background:white;
+}
+header{
+    border-bottom:solid 2px rgb(rgba(220, 132, 247, 0.689)) ;
+
 }
